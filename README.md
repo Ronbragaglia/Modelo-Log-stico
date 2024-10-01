@@ -48,8 +48,11 @@ P
 
  Tecnologias Utilizadas:
 NumPy: Para cálculos matemáticos e geração de dados de tempo.
+
 Matplotlib: Para criar gráficos que visualizam o crescimento da população ao longo do tempo.
+
 Seaborn: Para estilizar os gráficos e melhorar a legibilidade.
+
 Como o Código Funciona:
 Modelo de Crescimento Logístico:
 
