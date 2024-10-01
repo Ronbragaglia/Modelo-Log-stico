@@ -1,4 +1,5 @@
 Descrição do Projeto:
+
 Este projeto implementa a simulação do crescimento logístico da população, um modelo comum em biologia e ecologia para descrever o crescimento de uma população que atinge um limite (capacidade de suporte) devido à competição por recursos. O código explora como diferentes parâmetros influenciam o crescimento populacional ao longo do tempo.
 
 Funcionalidades:
@@ -173,15 +174,20 @@ Crescimento com Diferentes Populações Iniciais:
 Mostra como o valor inicial da população influencia o crescimento até atingir 
 𝐾
 K.
+
 Exemplo de Gráficos:
+
 Os gráficos mostram curvas de crescimento logístico com diferentes parâmetros:
+
 
 Gráfico 1: Crescimento Populacional com Diferentes Capacidades de Suporte 
 𝐾
 K.
+
 Gráfico 2: Crescimento Populacional com Diferentes Taxas de Crescimento 
 𝑟
 r.
+
 Gráfico 3: Crescimento Populacional com Diferentes Populações Iniciais 
 𝑃
 0
