@@ -196,5 +196,13 @@ Gráfico 3: Crescimento Populacional com Diferentes Populações Iniciais
 0
 P 
 0
-​
- .
+​ resultados:
+![image](https://github.com/user-attachments/assets/4f4115ff-c327-457d-bce8-230f9af19a12)
+
+![image](https://github.com/user-attachments/assets/6fcf81ba-4238-4b81-9cb6-5c402ebe0cd7)
+
+![image](https://github.com/user-attachments/assets/3f52ccae-a8a3-4e42-900b-807098350cc7)
+
+
+
+ 
